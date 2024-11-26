@@ -1,0 +1,11 @@
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\bin\Debug\net8.0\Maquina_Cafe.deps.json
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\bin\Debug\net8.0\Maquina_Cafe.dll
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\bin\Debug\net8.0\Maquina_Cafe.pdb
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.AssemblyInfoInputs.cache
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.AssemblyInfo.cs
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.dll
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\refint\Maquina_Cafe.dll
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\Maquina_Cafe.pdb
+C:\Users\jeiso\OneDrive\Desktop\Cuatrimestre 8\Administracion de proyectos sf\Semana 12\Maquina_Cafe\obj\Debug\net8.0\ref\Maquina_Cafe.dll
